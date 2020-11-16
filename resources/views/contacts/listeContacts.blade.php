@@ -46,7 +46,7 @@
                             <i class="fas fa-pencil-alt"></i>
 
                         </a>
-                        Use Alert;
+
                         <a onclick="deleteContact({{$contact -> id}});return false;" class="icon-block">
                             <i class="far fa-trash-alt deleteContact"></i>
 
@@ -92,7 +92,7 @@
     <script src="https://cdn.datatables.net/1.10.22/js/dataTables.bootstrap4.min.js"></script>
     <script src="/js/listeDesContactsDataTableConfig.js"></script>
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-   /* <script>
+    <script>
         function deleteContact(id) {
             $.ajax({
                 type: 'get',
@@ -107,7 +107,7 @@
             });
             console.log(id);
         }
-    </script> */
+    </script>
 
 
 @endsection
