@@ -1,0 +1,21 @@
+thead {
+    background-color: #316586;
+}
+
+.previous {
+    display: none;
+}
+
+#example_filter > label > input {
+    width: 100%;
+    background-color: #e0ecf3;
+
+}
+.custom-select{
+    background-color: #E5F7FE;
+}
+
+.dataTables_filter {
+    text-align: left !important;
+    width: 100%;
+}
