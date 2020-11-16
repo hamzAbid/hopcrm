@@ -156,7 +156,7 @@
             <button type="submit" class="btn btn-info" style="margin-top: 30px;"><i
                         class="fa fa-edit"> | Modifier </i>
             </button>
-            <a type="button" class="btn btn-secondary" href="/contacts/listeDesContacts" style="margin-top: 30px;"><i
+            <a type="button" class="btn btn-secondary" href="/contacts/listeContacts" style="margin-top: 30px;"><i
                         class="fa fa-list-ul"> | Retour à la liste des contacts </i>
             </a>
         </div>
