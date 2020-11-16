@@ -44,7 +44,7 @@ return [
                     'host' => env('DB_HOST', 'db4free.net'),
                     'port' => env('DB_PORT', '3306'),
                     'database' => env('DB_DATABASE', 'hop_crm_db'),
-                    'username' => env('DB_USERNAME', 'root'),
+                    'username' => env('DB_USERNAME', 'root_hop_crm'),
                     'password' => env('DB_PASSWORD', 'modepass123'),
                     'unix_socket' => env('DB_SOCKET', ''),
                     'charset' => 'utf8mb4',
